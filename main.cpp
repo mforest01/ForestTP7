@@ -23,6 +23,7 @@ int main(int argc, char** argv) {
     cout<<"Lapinou year"<<endl;
     cout<<"Back to reality"<<endl;
     cout<<"A la fin de Titanic, le bateau coule"<<endl;
+    cout << "Je suis le meilleur" << endl;
     return 0;
 }
 
