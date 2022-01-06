@@ -22,6 +22,7 @@ int main(int argc, char** argv) {
     cout<<"Bonjour"<<endl;
     cout<<"Lapinou year"<<endl;
     cout<<"Back to reality"<<endl;
+    cout<<"A la fin de Titanic, le bateau coule"<<endl;
     return 0;
 }
 
